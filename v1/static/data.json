@@ -1,0 +1,28 @@
+{
+  "status": 1,
+  "result": {
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "../../static/slider1.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "../../static/slider2.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "../../static/slider3.jpg"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "../../static/slider4.jpg"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "../../static/slider5.jpg"
+      }
+    ]
+  },
+  "message": ""
+}
